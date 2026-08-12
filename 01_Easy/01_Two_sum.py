@@ -58,6 +58,4 @@ class Solution:
         return []    
 
 
-    git remote add origin https://github.com/anuragapandey/leet-code.git
-git branch -M main
-git push -u origin main
+    
